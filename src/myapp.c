@@ -3,6 +3,7 @@
 int main(){
 
 	foo();
+	hoo();
 	
 	return 0;
 
