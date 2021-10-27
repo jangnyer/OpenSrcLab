@@ -5,8 +5,8 @@ void foo(void){
 	printf("hello foo\n");
 }
 
-void hoo(void){
-	printf("hello hoo\n");
+void hoo(int num){
+	printf(" %d : hello hoo\n",num);
 }
 
 

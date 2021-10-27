@@ -3,7 +3,7 @@
 int main(){
 
 	foo();
-	hoo();
+	hoo(123);
 	
 	return 0;
 
